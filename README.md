@@ -5,7 +5,7 @@
 # Hi there 👋 I am Fahim
 
 <p align="left">
-Aspiring full-stack developer learning the MERN stack and backend development.  
+Aspiring full-stack developer 👨🏽‍💻 learning the MERN stack and backend development. <br>
 Dedicated to building efficient, scalable web applications and growing in the tech field.
 </p>
 
