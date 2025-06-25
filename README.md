@@ -19,6 +19,14 @@ Dedicated to building efficient, scalable web applications and growing in the te
 🎲 Fact: I read a lot of fiction — it keeps my imagination sharp!
 </p>
 
+## 💻Technologies:
+<br>
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=js,react,firebase,nodejs,express,mongodb,git,github,vercel,netlify,html,css,tailwind,vite&perline=5)](https://skillicons.dev)
+
+</div>
+
 ## My Socials:
 
 <div align="left">
@@ -28,14 +36,6 @@ Dedicated to building efficient, scalable web applications and growing in the te
   <a href="mailto:fahimchowdhury877@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
-</div>
-
-## 💻Technologies:
-<br>
-<div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=js,react,firebase,nodejs,express,mongodb,git,github,vercel,netlify,html,css,tailwind,vite&perline=5)](https://skillicons.dev)
-
 </div>
 
 ## 📊 Current GitHub Stats:
