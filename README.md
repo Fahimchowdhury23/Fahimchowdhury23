@@ -16,11 +16,11 @@ Currently diving into full-stack web development with the MERN Stack.
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irenity0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1](https://github-readme-stats.vercel.app/api?username=Fahimchowdhury23&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="contribution graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fahimchowdhury23&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="contribution graph"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Irenity0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2](https://nirzak-streak-stats.vercel.app/?user=Fahimchowdhury23&theme=nightowl&hide_border=false" height="150" alt="streak graph"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Fahimchowdhury23&theme=nightowl&hide_border=false" height="150" alt="streak graph"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Irenity0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2](https://nirzak-streak-stats.vercel.app/?user=Fahimchowdhury23&theme=nightowl&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahimchowdhury23&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="most languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahimchowdhury23&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="most languages graph"/>
 </div>
 
 ### ✍️ Random Dev Quote
