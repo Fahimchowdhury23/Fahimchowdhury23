@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/Fahimchowdhury23/Fahimchowdhury23/blob/main/Fahim%20chowdhury.png"  />
+  <img height="300" src="https://github.com/Fahimchowdhury23/Fahimchowdhury23/blob/main/Fahim%20chowdhury.png"  />
 </div>
 
 # Hi there 👋 I am Fahim
