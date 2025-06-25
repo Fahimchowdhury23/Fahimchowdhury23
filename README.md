@@ -41,11 +41,11 @@ Dedicated to building efficient, scalable web applications and growing in the te
 ## 📊 Current GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fahimchowdhury23&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="contribution graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FahimChowdhury23&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="contribution graph"/>
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Fahimchowdhury23&theme=nightowl&hide_border=false" height="150" alt="streak graph"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=FahimChowdhury23&theme=nightowl&hide_border=false" height="150" alt="streak graph"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahimchowdhury23&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="most languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimChowdhury23&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="most languages graph"/>
 </div>
 
 ### ✍️ Random Dev Quote
