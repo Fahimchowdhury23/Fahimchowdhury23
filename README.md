@@ -17,11 +17,11 @@ Currently diving into full-stack web development with the MERN Stack.
 
 # 💻Technologies:
 <br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,firebase,nodejs,express,mongodb,git,github,vercel,netlify,html,css,tailwind,vite" />
-  </a>
-</p>
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=js,react,firebase,nodejs,express,mongodb,git,github,vercel,netlify,html,css,tailwind,vite&perline=5)](https://skillicons.dev)
+
+</div>
 
 # 📊 My GitHub Stats:
 
