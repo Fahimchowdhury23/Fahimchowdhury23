@@ -1,10 +1,16 @@
 ## Hi there 👋 I am Fahim
 
-# 💫 About Me:
-Currently diving into full-stack web development with the MERN Stack.
+# About Me:
 
+###
+<p align="left">
+🧠 Focused on learning the <strong>backend</strong> side of the MERN stack right now.<br>
+🎯 Goal: Become a <strong>Senior Web Developer</strong> within the next 3 years.<br>
+🏹 Also exploring <strong>Competitive Programming</strong> to sharpen problem-solving skills.<br>
+🎲 Fact: I read a lot of fiction — it keeps my imagination sharp!
+</p>
 
-## 🌐My Socials:
+## My Socials:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fahim-chowdhury-369933368/" target="_blank">
@@ -23,7 +29,7 @@ Currently diving into full-stack web development with the MERN Stack.
 
 </div>
 
-# 📊 My GitHub Stats:
+# 📊 Current GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fahimchowdhury23&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="contribution graph"/>
