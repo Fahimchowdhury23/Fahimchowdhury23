@@ -2,7 +2,7 @@
   <img height="250" src="https://github.com/Fahimchowdhury23/Fahimchowdhury23/blob/main/Fahim%20chowdhury.png"  />
 </div>
 
-# Hi there 👋 I am Fahim
+# Hi there 👋 I'm Fahim
 
 <p align="left">
 Aspiring full-stack developer 👨🏽‍💻 learning the MERN stack and backend development. <br>
