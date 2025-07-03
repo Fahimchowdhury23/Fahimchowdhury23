@@ -23,7 +23,7 @@ Dedicated to building efficient, scalable web applications and growing in the te
 <br>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,react,firebase,nodejs,express,mongodb,git,vercel,netlify,html,css,tailwind,vite&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,firebase,nodejs,express,mongodb,git,npm,vercel,netlify,html,css,tailwind,vite&perline=5)](https://skillicons.dev)
 
 </div>
 
